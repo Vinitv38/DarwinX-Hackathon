@@ -83,10 +83,3 @@ temperature = 0.3               # Response creativity
 max_tokens = 1000              # Max response length
 ```
 
-## 🤝 Contributing
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
-## 📄 License
-MIT
