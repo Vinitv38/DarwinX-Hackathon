@@ -1,4 +1,4 @@
-# Empathetic Code Reviewer
+# Mission: 1 - Empathetic Code Reviewer 
 
 > AI-powered tool that transforms critical code reviews into constructive, educational feedback
 
