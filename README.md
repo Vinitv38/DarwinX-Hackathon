@@ -28,7 +28,7 @@ pip install -r requirements.txt
 echo "GROQ_API_KEY=your_api_key_here" > .env
 ```
 
-## 🛠 Usage
+## 🛠 Usage (Stand Out Feature)
 
 ### Basic Example
 ```bash
